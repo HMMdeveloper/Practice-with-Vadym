@@ -3,7 +3,6 @@ import './App.css';
 
 function App() {
     console.log(11);
-    console.log(11);
     return (
         <div className="App">
             <header className="App-header">
